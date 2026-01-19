@@ -9,5 +9,6 @@ buah.append('anggur') # Menambahkan di list terakhir
 buah.insert(1, 'nanas') # Menambahkan di posisi tertentu
 
 print(buah)
-# buah.remove('Apel') # Menghapus nilai dari list
+# buah.remove('Apel') # Menghapus dengan string dan int
+# del  buah[1] # Menghapus berdasarkan index
 # buah.pop(0) # Menghapus berdasarkan index dan bisa dikembalikan datannya
