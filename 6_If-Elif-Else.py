@@ -6,3 +6,4 @@ elif umur >= 18:                # ELIF Mengecek kondisi tambahan
    print('Kamu sudah remaja')
 else:                     # ELSE Jalan terakhir jika kondisi sebelumny false
    print('Kamu masih anak-anak')
+
